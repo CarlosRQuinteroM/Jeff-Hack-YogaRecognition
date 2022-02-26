@@ -11,6 +11,7 @@ export const PracticeFooter = () => {
   return (
     <Box
       sx={{
+        pt: 2,
         display: "flex",
         justifyContent: "flex-start",
         alignContent: "center",
@@ -27,7 +28,7 @@ export const PracticeFooter = () => {
         }}
         onClick={HanddlerPage}
       >
-        Lets back!
+        Lets Go back!
       </Button>
     </Box>
   );
