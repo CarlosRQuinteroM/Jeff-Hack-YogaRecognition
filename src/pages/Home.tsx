@@ -11,7 +11,6 @@ const Home = () => {
       </Helmet>
       <Box
         sx={{
-          backgroundColor: "rgb(232, 218, 230)",
           minHeight: "100%",
           py: 3,
         }}
